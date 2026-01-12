@@ -5,9 +5,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/veildawn?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=38bdae)](https://github.com/veildawn?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=veildawn&style=for-the-badge&color=38bdae&labelColor=1a1b27)](https://github.com/veildawn)
 
-**`Full-stack Developer | Open Source Enthusiast`**
+**`Full-stack Developer | Android Expert`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&lines=Building+Conflux+%E6%B1%87%E6%B5%81;Rust+%E2%80%A2+TypeScript+%E2%80%A2+React;Crafting+Beautiful+Desktop+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&lines=Android+%7C+Kotlin+%7C+Java;Full-stack+Developer;Building+Conflux+%E6%B1%87%E6%B5%81" alt="Typing SVG" />
 
 </div>
 
@@ -15,21 +15,23 @@
 
 ## 🚀 About Me
 
-```rust
-struct Developer {
-    name: &'static str,
-    role: &'static str,
-    languages: Vec<&'static str>,
-    current_focus: &'static str,
-}
+```kotlin
+data class Developer(
+    val name: String,
+    val role: String,
+    val primarySkills: List<String>,
+    val otherSkills: List<String>,
+    val currentFocus: String
+)
 
-fn main() {
-    let me = Developer {
-        name: "Eric",
-        role: "Full-stack Developer",
-        languages: vec!["Rust", "TypeScript", "Python", "Kotlin"],
-        current_focus: "Building Conflux 汇流 - Modern Proxy Management",
-    };
+fun main() {
+    val me = Developer(
+        name = "Eric",
+        role = "Full-stack Developer",
+        primarySkills = listOf("Android", "Kotlin", "Java"),
+        otherSkills = listOf("TypeScript", "React", "Rust", "Python"),
+        currentFocus = "Building Conflux 汇流 - Modern Proxy Management"
+    )
 }
 ```
 
@@ -37,12 +39,20 @@ fn main() {
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+### 📱 Primary
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
+### 🌐 Full-stack
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 </div>
 
