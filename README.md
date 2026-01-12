@@ -2,8 +2,8 @@
   
 # 👋 Hey, I'm Eric
 
-[![GitHub followers](https://img.shields.io/github/followers/Ashbaer?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=38bdae)](https://github.com/Ashbaer?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ashbaer&style=for-the-badge&color=38bdae&labelColor=1a1b27)](https://github.com/Ashbaer)
+[![GitHub followers](https://img.shields.io/github/followers/veildawn?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=38bdae)](https://github.com/veildawn?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=veildawn&style=for-the-badge&color=38bdae&labelColor=1a1b27)](https://github.com/veildawn)
 
 **`Full-stack Developer | Open Source Enthusiast`**
 
@@ -50,8 +50,8 @@ fn main() {
 
 <div align="center">
 
-[![Conflux](https://github-readme-stats.vercel.app/api/pin/?username=Ashbaer&repo=conflux-app&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/Ashbaer/conflux-app)
-[![Cross Rules](https://github-readme-stats.vercel.app/api/pin/?username=Ashbaer&repo=cross-rules&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/Ashbaer/cross-rules)
+[![Conflux](https://github-readme-stats.vercel.app/api/pin/?username=veildawn&repo=conflux-app&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/veildawn/conflux-app)
+[![Cross Rules](https://github-readme-stats.vercel.app/api/pin/?username=veildawn&repo=cross-rules&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/veildawn/cross-rules)
 
 </div>
 
@@ -68,14 +68,14 @@ fn main() {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashbaer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdae&icon_color=38bdae"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashbaer&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdae"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=veildawn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdae&icon_color=38bdae"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veildawn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdae"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashbaer&theme=tokyonight&hide_border=true&background=1A1B27&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=veildawn&theme=tokyonight&hide_border=true&background=1A1B27&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE)](https://git.io/streak-stats)
 
 </div>
 
@@ -87,7 +87,7 @@ fn main() {
 
 *Open for collaborations and interesting projects*
 
-**📫 Find me on GitHub: [@Ashbaer](https://github.com/Ashbaer)**
+**📫 Find me on GitHub: [@veildawn](https://github.com/veildawn)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer"/>
 
