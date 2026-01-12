@@ -7,7 +7,7 @@
 
 **`Full-stack Developer | Android Expert`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&lines=Android+%7C+Kotlin+%7C+Java;Full-stack+Developer;Building+Conflux+%E6%B1%87%E6%B5%81" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&lines=Android+%7C+Kotlin+%7C+Java;Full-stack+Developer;Building+Conflux" alt="Typing SVG" />
 
 </div>
 
@@ -30,7 +30,7 @@ fun main() {
         role = "Full-stack Developer",
         primarySkills = listOf("Android", "Kotlin", "Java"),
         otherSkills = listOf("TypeScript", "React", "Rust", "Python"),
-        currentFocus = "Building Conflux 汇流 - Modern Proxy Management"
+        currentFocus = "Building Conflux - Modern Proxy Management"
     )
 }
 ```
@@ -58,7 +58,7 @@ fun main() {
 
 ## 📌 Featured Projects
 
-### 🌊 [Conflux 汇流](https://github.com/veildawn/conflux-app)
+### 🌊 [Conflux](https://github.com/veildawn/conflux-app)
 
 > A modern cross-platform proxy management desktop app built with **Tauri 2 + React + MiHomo**
 
@@ -73,7 +73,7 @@ fun main() {
 
 ### 📋 [Cross Rules](https://github.com/veildawn/cross-rules)
 
-> 跨平台规则集合仓库，用于存放和管理各类规则配置
+> Cross-platform rule sets repository for proxy configuration
 
 [![Stars](https://img.shields.io/github/stars/veildawn/cross-rules?style=flat-square&logo=github&labelColor=1a1b27&color=38bdae)](https://github.com/veildawn/cross-rules)
 
