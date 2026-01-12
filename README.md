@@ -48,34 +48,32 @@ fn main() {
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-[![Conflux](https://github-readme-stats.vercel.app/api/pin/?username=veildawn&repo=conflux-app&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/veildawn/conflux-app)
-[![Cross Rules](https://github-readme-stats.vercel.app/api/pin/?username=veildawn&repo=cross-rules&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/veildawn/cross-rules)
-
-</div>
-
-### 🌊 Conflux 汇流
+### 🌊 [Conflux 汇流](https://github.com/veildawn/conflux-app)
 
 > A modern cross-platform proxy management desktop app built with **Tauri 2 + React + MiHomo**
 
+[![Stars](https://img.shields.io/github/stars/veildawn/conflux-app?style=flat-square&logo=github&labelColor=1a1b27&color=38bdae)](https://github.com/veildawn/conflux-app)
+[![Release](https://img.shields.io/github/v/release/veildawn/conflux-app?style=flat-square&labelColor=1a1b27&color=38bdae)](https://github.com/veildawn/conflux-app/releases)
+[![License](https://img.shields.io/github/license/veildawn/conflux-app?style=flat-square&labelColor=1a1b27&color=38bdae)](https://github.com/veildawn/conflux-app)
+
 - 🎯 Intuitive proxy configuration & traffic management
-- 🔄 Multiple subscription formats support
+- 🔄 Multiple subscription formats support  
 - 📊 Real-time traffic monitoring
 - 🌐 TUN mode for system-wide proxy
+
+### 📋 [Cross Rules](https://github.com/veildawn/cross-rules)
+
+> 跨平台规则集合仓库，用于存放和管理各类规则配置
+
+[![Stars](https://img.shields.io/github/stars/veildawn/cross-rules?style=flat-square&logo=github&labelColor=1a1b27&color=38bdae)](https://github.com/veildawn/cross-rules)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=veildawn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdae&icon_color=38bdae"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veildawn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdae"/>
 
-</div>
+![veildawn's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=veildawn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdae&icon_color=38bdae&rank_icon=github)
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=veildawn&theme=tokyonight&hide_border=true&background=1A1B27&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=veildawn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdae)
 
 </div>
 
